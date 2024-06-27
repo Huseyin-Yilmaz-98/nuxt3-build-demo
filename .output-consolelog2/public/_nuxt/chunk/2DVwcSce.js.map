@@ -1,0 +1,1 @@
+{"version":3,"file":"2DVwcSce.js","sources":["../../../../../components/B.vue"],"sourcesContent":["<template>\n    <p>\n        This is component B\n    </p>\n</template>\n<script setup>\nconsole.log('2')\n</script>"],"names":[],"mappings":"sFAMA,eAAQ,IAAI,GAAG"}

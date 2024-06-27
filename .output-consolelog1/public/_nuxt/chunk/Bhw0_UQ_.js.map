@@ -1,0 +1,1 @@
+{"version":3,"file":"Bhw0_UQ_.js","sources":["../../../../../components/B.vue"],"sourcesContent":["<template>\n    <p>\n        This is component B\n    </p>\n</template>\n<script setup>\nconsole.log('1')\n</script>"],"names":[],"mappings":"sFAMA,eAAQ,IAAI,GAAG"}
