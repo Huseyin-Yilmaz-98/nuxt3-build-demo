@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunknuxt_app=self.webpackChunknuxt_app||[]).push([[602],{2602:(a,n,t)=>{t.r(n),t.d(n,{default:()=>r});var e=t(7933);const u={__name:"B",setup(c){return console.log("1"),(l,s)=>((0,e.uX)(),(0,e.CE)("p",null," This is component B "))}};function _(c,l){const s=u;return(0,e.uX)(),(0,e.Wv)(s)}var o=t(6690);const p={},r=(0,o.A)(p,[["render",_]])}}]);
+
+//# sourceMappingURL=8a3147a.js.map

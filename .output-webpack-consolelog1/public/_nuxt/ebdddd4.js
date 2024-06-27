@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunknuxt_app=self.webpackChunknuxt_app||[]).push([[183],{3183:(x,n,e)=>{e.r(n),e.d(n,{default:()=>a});var t=e(7933);function c(_,d){return(0,t.uX)(),(0,t.CE)("p",null," This is component a ")}var s=e(6690);const r={},o=(0,s.A)(r,[["render",c]]);function u(_,d){const l=o;return(0,t.uX)(),(0,t.Wv)(l)}const p={},a=(0,s.A)(p,[["render",u]])}}]);
+
+//# sourceMappingURL=ebdddd4.js.map

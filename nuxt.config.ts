@@ -13,6 +13,7 @@ export default defineNuxtConfig({
     },
     appManifest: false
   },
+  builder: 'vite',
   vite: {
     build: {
       rollupOptions: {
@@ -28,7 +29,7 @@ export default defineNuxtConfig({
     'build:manifest': (manifest) => {
       for (const file of Object.values(manifest)) {
         file.dynamicImports = []
-  
+
         // Remove all prefetch assets from the manifest
         if (file.assets) {
           file.assets = file.assets.filter(
